@@ -3,7 +3,7 @@
 # Export expo script
 
 ACCOUNT_NAME="brightkieu"
-PROJECT_NAME="care_connect"
+PROJECT_NAME="careconnect"
 
 # Clear before build
 rm -rf ./dist
